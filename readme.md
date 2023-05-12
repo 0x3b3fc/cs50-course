@@ -1,5 +1,8 @@
 # CS50 Course
 
-## Weak One
+## Week Zero
 * how to write program and programming language
 * scratch language
+
+## Week One
+* C Programming Language
